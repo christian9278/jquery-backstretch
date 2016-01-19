@@ -8,8 +8,14 @@
     "email": "scott@robbin.co",
     "url": "http://srobbin.com"
   },
-  "version": "2.0.4",
   "main": ["jquery.backstretch.js"],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],  
   "dependencies": {
     "jquery": "^2.2.0"
   },
