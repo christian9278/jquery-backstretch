@@ -23,7 +23,7 @@
     }
   ],
   "dependencies": {
-    "jquery": ">= 1.7"
+    "jquery": ">= 2.2"
   },
   "keywords": []
 }
